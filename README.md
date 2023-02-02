@@ -1,1 +1,2 @@
-# moviesHome es una aplicación de peliculas donde podes ver información referida a cada pelicula.
+# moviesHome 
+Es una aplicación de peliculas donde podes ver información referida a cada pelicula.
